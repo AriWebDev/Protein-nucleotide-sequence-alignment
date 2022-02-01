@@ -1,0 +1,1 @@
+I developed this project as part of the Bioinformatics class coursework. Learnt to use Needleman-Wunsch and Smith-Waterman algorithms to solve the sequence alignment problems that have computational complexities.
