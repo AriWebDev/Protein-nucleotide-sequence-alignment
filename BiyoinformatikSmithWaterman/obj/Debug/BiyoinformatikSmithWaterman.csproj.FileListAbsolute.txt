@@ -1,0 +1,10 @@
+C:\Users\PC10\source\repos\BiyoinformatikSmithWaterman\BiyoinformatikSmithWaterman\bin\Debug\BiyoinformatikSmithWaterman.exe.config
+C:\Users\PC10\source\repos\BiyoinformatikSmithWaterman\BiyoinformatikSmithWaterman\bin\Debug\BiyoinformatikSmithWaterman.exe
+C:\Users\PC10\source\repos\BiyoinformatikSmithWaterman\BiyoinformatikSmithWaterman\bin\Debug\BiyoinformatikSmithWaterman.pdb
+C:\Users\PC10\source\repos\BiyoinformatikSmithWaterman\BiyoinformatikSmithWaterman\obj\Debug\BiyoinformatikSmithWaterman.csprojAssemblyReference.cache
+C:\Users\PC10\source\repos\BiyoinformatikSmithWaterman\BiyoinformatikSmithWaterman\obj\Debug\BiyoinformatikSmithWaterman.Form1.resources
+C:\Users\PC10\source\repos\BiyoinformatikSmithWaterman\BiyoinformatikSmithWaterman\obj\Debug\BiyoinformatikSmithWaterman.Properties.Resources.resources
+C:\Users\PC10\source\repos\BiyoinformatikSmithWaterman\BiyoinformatikSmithWaterman\obj\Debug\BiyoinformatikSmithWaterman.csproj.GenerateResource.cache
+C:\Users\PC10\source\repos\BiyoinformatikSmithWaterman\BiyoinformatikSmithWaterman\obj\Debug\BiyoinformatikSmithWaterman.csproj.CoreCompileInputs.cache
+C:\Users\PC10\source\repos\BiyoinformatikSmithWaterman\BiyoinformatikSmithWaterman\obj\Debug\BiyoinformatikSmithWaterman.exe
+C:\Users\PC10\source\repos\BiyoinformatikSmithWaterman\BiyoinformatikSmithWaterman\obj\Debug\BiyoinformatikSmithWaterman.pdb
